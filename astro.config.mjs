@@ -12,13 +12,13 @@ export default defineConfig({
 	fonts: [
 		{
 			provider: fontProviders.local(),
-			name: 'Coolvetica',
-			cssVariable: '--font-coolvetica',
+			name: 'Avenir',
+			cssVariable: '--font-avenir',
 			fallbacks: ['sans-serif'],
 			options: {
 				variants: [
 					{
-						src: ['./src/assets/fonts/coolvetica.woff2', './src/assets/fonts/coolvetica.woff'],
+						src: ['./src/assets/fonts/avenir.woff2', './src/assets/fonts/avenir.woff'],
 						weight: 400,
 						style: 'normal',
 						display: 'swap',
