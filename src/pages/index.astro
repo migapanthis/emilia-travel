@@ -1,13 +1,17 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
-import PostList from '../components/PostList.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { BASE_PATH, SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const rendered = await Promise.all(
+	posts.map(async (post) => ({ post, Content: (await render(post)).Content })),
 );
 ---
 
@@ -23,13 +27,46 @@ const posts = (await getCollection('blog')).sort(
 				margin: 0 0 2rem;
 				font-size: 1.563em;
 			}
+			.entry {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: 0 auto 4rem;
+				padding: 1em 1em 2em;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			.entry:last-child {
+				border-bottom: none;
+				margin-bottom: 0;
+			}
+			.entry h2 {
+				margin: 0 0 0.5em;
+			}
+			.entry .date {
+				margin: 0 0 1.5em;
+				color: rgb(var(--gray));
+			}
+			.read-more {
+				display: inline-block;
+				margin-top: 1.5em;
+			}
 		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>Latest posts</h1>
-			<PostList posts={posts} />
+			<h1>Entries</h1>
+			{
+				rendered.map(({ post, Content }) => (
+					<article class="entry">
+						<h2>{post.data.title}</h2>
+						<p class="date">
+							<FormattedDate date={post.data.pubDate} />
+						</p>
+						<Content />
+						<a class="read-more" href={`${BASE_PATH}blog/${post.id}/`}>Read more</a>
+					</article>
+				))
+			}
 		</main>
 		<Footer />
 	</body>
