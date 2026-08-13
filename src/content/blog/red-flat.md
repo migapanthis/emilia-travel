@@ -39,3 +39,11 @@ The next room was the children's room. I think the room was supposed to represen
 | | |
 |-|-|
 |![desk](../../assets/red-flat-pics/IMG_3152.jpeg)|![stats book](../../assets/red-flat-pics/IMG_3154.jpeg)|
+
+The last room is the kitchen. It was fitted out with all Bulgarian made applicances, and had a small radio playing. It was pretty crowded when I got to this point, but luckily I was brave enough to explore the balcony. There was even a box of Bulgarian chocolates (from 2026 not 1980) that the audio guide invited us to try. 
+
+| | | |
+|-|-|-|
+|![balcony](../../assets/red-flat-pics/IMG_3157.jpeg)|![view](../../assets/red-flat-pics/IMG_3161.jpeg)|![chocolates](../../assets/red-flat-pics/IMG_3164.jpeg)|
+
+This was a great tourist attraction. One of my favourite things to do in an unfamiliar city is just to walk around and look at buildings (even if they are not that special). This felt like an extension of that. 
