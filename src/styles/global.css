@@ -91,6 +91,12 @@ img {
 	height: auto;
 	border-radius: 8px;
 }
+.prose img,
+.entry img {
+	display: block;
+	margin: 0 auto;
+	max-width: 80%;
+}
 code {
 	padding: 2px 5px;
 	background-color: rgb(var(--gray-light));
