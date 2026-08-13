@@ -1,5 +1,6 @@
 ---
 title: 'The Red Flat'
+description: 'My visit to the Red Flat'
 pubDate: 'Aug 13 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
@@ -21,4 +22,6 @@ There wasn't much to play with in this room, but it was nice to sit down and chi
 Then, I moved into the living room/mum's bedroom. This was probably my favourite room, lots of cupboards and drawers to look in, nice comfy chairs, and the design was really nice. 
 
 (../../assets/red-flat-pics/IMG_3129.jpeg)
+
+In each of the cupboards there were more newspaper clippings, books, and other things. There was also a cupboard
 
