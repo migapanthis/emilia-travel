@@ -2,7 +2,6 @@
 title: 'The Red Flat'
 description: 'My visit to the Red Flat'
 pubDate: 'Aug 13 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 The first 'touristy' activity I decided to do while in Sofia was visit the Red Flat museum. The Red Flat is an actual apartment in the centre of the city where a small family lived in in 1980s communist Bulgaria. It has been left as it was (kind of... I'm sure they added some things to up the charm), and you can explore it at your own pace while playing with/touching anything along the way. 
