@@ -28,11 +28,14 @@ In each of the cupboards there were more newspaper clippings, books, and other t
 ![cool plate](../../assets/red-flat-pics/IMG_3132.jpeg)
 
 On the other side of the living room was the TV, and bed. The TV seemed to be playing different communist era TV shows and news, but I didn't look at it too much. A lot of people were looking at it for a loooonngggg time. There was also a bed. I can't remember exactly, but I think the dad worked as an engineer in Libya most of the time, which meant the family was quite rich compared to other, and were able to travel to the Black Sea in summer and meet people from Germany and other places. Since the dad was a away most of the time, the living room was also the mum's bedroom. The mum worked as a journalist.  
-
-![typewriter](../../assets/red-flat-pics/IMG_3136.jpeg)![drinks](../../assets/red-flat-pics/IMG_3134.jpeg)![tv](../../assets/red-flat-pics/IMG_3138.jpeg)
+| | | |
+|-|-|-|
+|![typewriter](../../assets/red-flat-pics/IMG_3136.jpeg)|![drinks](../../assets/red-flat-pics/IMG_3134.jpeg)|![tv](../../assets/red-flat-pics/IMG_3138.jpeg)|
 
 The next room was the children's room. I think the room was supposed to represent all stages of their son's childhood - there were toys and blocks, sports equipment, a record player, school uniforms, and homework stuff. This was a fun room to play around in. Some people even put on a record - these were Bulgarian covers of 80s pop music (although the people in communist Bulgaria were lead to believe they were Bulgarian originals). My favourite part here was the little statistics book. I thought this was some sort of textbook at first, but actually after translating it seemed to be more like a reference book, with different statistics on different topics that would be useful to refer to. Life before the internet I guess. 
-
-![record player](../../assets/red-flat-pics/IMG_3143.jpeg)![bike](../../assets/red-flat-pics/IMG_3151.jpeg)
-
-![desk](../../assets/red-flat-pics/IMG_3152.jpeg)![stats book](../../assets/red-flat-pics/IMG_3154.jpeg)
+| | |
+|-|-|
+|![record player](../../assets/red-flat-pics/IMG_3143.jpeg)|![bike](../../assets/red-flat-pics/IMG_3151.jpeg)|
+| | |
+|-|-|
+|![desk](../../assets/red-flat-pics/IMG_3152.jpeg)|![stats book](../../assets/red-flat-pics/IMG_3154.jpeg)|
