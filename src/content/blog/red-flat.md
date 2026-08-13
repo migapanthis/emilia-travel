@@ -4,9 +4,9 @@ description: 'My visit to the Red Flat'
 pubDate: 'Aug 13 2026'
 ---
 
-The first 'touristy' activity I decided to do while in Sofia was visit the Red Flat museum. The Red Flat is an actual apartment in the centre of the city where a small family lived in in 1980s communist Bulgaria. It has been left as it was (kind of... I'm sure they added some things to up the charm), and you can explore it at your own pace while playing with/touching anything along the way. 
+The first 'touristy' activity I decided to do while in Sofia was visit the Red Flat museum. The Red Flat is an actual apartment in the centre of the city where a small family lived in 1980s communist Bulgaria. It has been left as it was (kind of... I'm sure they added some things to up the charm), and you can explore it at your own pace while playing with/touching anything along the way. 
 
-Obviously, I took the tram there. The public transport in Sofia is great - air conditioned, frequent, and easy to understand even if you don't speak Bulgarian. Each journey costs €0.80, and there's a daily cap of €2 (amazing!!!). BUT you don't have to tag off. This is really hard for me to remember. 
+Obviously, I took the tram there (even though it was totally walkable). The public transport in Sofia is great - air conditioned, frequent, and easy to understand even if you don't speak Bulgarian. Each journey costs €0.80, and there's a daily cap of €2 (amazing!!!). BUT you shouldn't tag off. This is really hard for me to remember. 
 
 ![tram](../../assets/red-flat-pics/IMG_3119.jpeg)
 
@@ -22,11 +22,11 @@ Then, I moved into the living room/mum's bedroom. This was probably my favourite
 
 ![living room](../../assets/red-flat-pics/IMG_3129.jpeg)
 
-In each of the cupboards there were more newspaper clippings, books, and other things. There was also a cupboard of alcohol and cigars for when friends come over. The best part here was just the whole shelf really. It was fun to explore and looked really nice too. There were more books and things, it seemed like most of the books were part of an encyclopedia series or something - I didn't translate much of the books here. One of the coolest parts was this plate in the coffee table: 
+In each of the cupboards there were more newspaper clippings, books, and other things. There was also a cupboard of alcohol and cigars for when friends come over. The best part here was just the whole shelf really. It was fun to explore and looked really nice too. There were a lot of books, it seemed like most of the books were part of an encyclopedia series or something - I didn't translate much of the books here. One of the coolest parts was this plate in the coffee table: 
 
 ![cool plate](../../assets/red-flat-pics/IMG_3132.jpeg)
 
-On the other side of the living room was the TV, and bed. The TV seemed to be playing different communist era TV shows and news, but I didn't look at it too much. A lot of people were looking at it for a loooonngggg time. There was also a bed. I can't remember exactly, but I think the dad worked as an engineer in Libya most of the time, which meant the family was quite rich compared to other, and were able to travel to the Black Sea in summer and meet people from Germany and other places. Since the dad was a away most of the time, the living room was also the mum's bedroom. The mum worked as a journalist.  
+On the other side of the living room was the TV, and bed. The TV seemed to be playing different communist era TV shows and news, but I didn't look at it too much. A lot of people were looking at it for a loooonngggg time. There was also a bed. I can't remember exactly, but I think the dad worked as an engineer in Libya most of the time, which meant the family was quite rich compared to others, and were able to travel to the Black Sea in summer and meet people from Germany and other places, and they were also able to afford good appliances. Since the dad was a away most of the time, the living room was also the mum's bedroom. The mum worked as a journalist, which is why there are so many newspaper clippings and typewriters.  
 | | | |
 |-|-|-|
 |![typewriter](../../assets/red-flat-pics/IMG_3136.jpeg)|![drinks](../../assets/red-flat-pics/IMG_3134.jpeg)|![tv](../../assets/red-flat-pics/IMG_3138.jpeg)|
