@@ -27,17 +27,13 @@ There are 3 floors (maybe even 4), each with about 6 (large) rooms of art, plus 
 | | |
 |-|-|
 ![attack](../../assets/art-pics/IMG_3283.jpeg)|![haha](../../assets/art-pics/IMG_3290.jpeg)
-| | |
-|-|-|
+| <br /> | |
 ![landscapes](../../assets/art-pics/IMG_3305.jpeg)|![wave](../../assets/art-pics/IMG_3301.jpeg)
-| | |
-|-|-|
+| <br /> | |
 ![colour 1](../../assets/art-pics/IMG_3329.jpeg)|![colour 2](../../assets/art-pics/IMG_3330.jpeg)
-| | |
-|-|-|
+| <br /> | |
 ![city](../../assets/art-pics/IMG_3332.jpeg)|![sharp](../../assets/art-pics/IMG_3360.jpeg)
-| | |
-|-|-|
+| <br /> | |
 ![table](../../assets/art-pics/IMG_3355.jpeg)|![layered](../../assets/art-pics/IMG_3353.jpeg)
 
 After this, I was MASSIVELY hungry. It was like 2pm already! All good though, Happy is just down the road. Happy is a Bulgarian chain that is very popular in London it seems? It is based on the Hard Rock Cafe, and is one of the places that we can get delivered for lunch at work that the company will pay for. It is sooooo good, and they have basically everything. I was sitting next to some Americans, I saw a comment somewhere that said sitting next to Americans at a restaurant is like living next to a data centre, lol.
