@@ -55,7 +55,7 @@ Then, it was time to move onto the icon museum. I had no idea what an icon was b
 This museum was a lot smaller. Just one big room with a lot of icons and pieces of old churches and things. It was so quiet, but since it was in the concrete basement of this cathedral, every sound echoed. One lady sneezed and it sounded like a bomb went off. Here are some pictures from this gallery:
 
 | | |
-| | |
+|-|-|
 ![icons1](../../assets/art-pics/IMG_3426.jpeg)|![icons2](../../assets/art-pics/IMG_3422.jpeg)
 
 This was a great day out. I probably wouldn't recommend the icon museum, but maybe if you know more about Christianity it would be more interesting. Kvadrat 500 however, I highly recommend. Must visit alongside the Red Flat if you're in Sofia. Happy is also a must visit. 
