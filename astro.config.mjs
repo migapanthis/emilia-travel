@@ -12,15 +12,21 @@ export default defineConfig({
 	fonts: [
 		{
 			provider: fontProviders.local(),
-			name: 'Avenir',
-			cssVariable: '--font-avenir',
+			name: 'Inter',
+			cssVariable: '--font-inter',
 			fallbacks: ['sans-serif'],
 			options: {
 				variants: [
 					{
-						src: ['./src/assets/fonts/avenir.woff2', './src/assets/fonts/avenir.woff'],
-						weight: 400,
+						src: ['./src/assets/fonts/inter-variable.woff2'],
+						weight: '100 900',
 						style: 'normal',
+						display: 'swap',
+					},
+					{
+						src: ['./src/assets/fonts/inter-italic-variable.woff2'],
+						weight: '100 900',
+						style: 'italic',
 						display: 'swap',
 					},
 				],
