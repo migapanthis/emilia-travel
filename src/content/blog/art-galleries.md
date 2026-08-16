@@ -41,7 +41,7 @@ There are 3 floors (maybe even 4), each with about 6 (large) rooms of art, plus 
 ![table](../../assets/art-pics/IMG_3355.jpeg)|![layered](../../assets/art-pics/IMG_3353.jpeg)
 
 After this, I was MASSIVELY hungry. It was like 2pm already! All good though, Happy is just down the road. Happy is a Bulgarian chain that is very popular in London it seems? It is based on the Hard Rock Cafe, and is one of the places that we can get delivered for lunch at work that the company will pay for. It is sooooo good, and they have basically everything. 
-After the waitress switched to English for me, she asked me how I was and I said "good, how are you?". She replied with "I'm at work, how can I be". Good answer :laughing:
+After the waitress switched to English for me, she asked me how I was and I said "good, how are you?". She replied with "I'm at work, how can I be". Good answer 😆
 I got pork gyros and a hugo spritz, awwww yeah:
 
 ![lunch](../../assets/art-pics/IMG_3401.jpeg)
@@ -53,7 +53,7 @@ Then, it was time to move onto the icon museum. I had no idea what an icon was b
 This museum was a lot smaller. Just one big room with a lot of icons and pieces of old churches and things. It was so quiet, but since it was in the concrete basement of this cathedral, every sound echoed. One lady sneezed and it sounded like a bomb went off. Here are some pictures from this gallery:
 
 | | |
-|-|-|
+| | |
 ![icons1](../../assets/art-pics/IMG_3426.jpeg)|![icons2](../../assets/art-pics/IMG_3422.jpeg)
 
 This was a great day out. I probably wouldn't recommend the icon museum, but maybe if you know more about Christianity it would be more interesting. Kvadrat 500 however, I highly recommend. Must visit alongside the Red Flat if you're in Sofia. Happy is also a must visit. 
