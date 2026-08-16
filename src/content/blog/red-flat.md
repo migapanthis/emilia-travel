@@ -33,7 +33,7 @@ On the other side of the living room was the TV, and bed. The TV seemed to be pl
 
 The next room was the children's room. I think the room was supposed to represent all stages of their son's childhood - there were toys and blocks, sports equipment, a record player, school uniforms, and homework stuff. This was a fun room to play around in. Some people even put on a record - these were Bulgarian covers of 80s pop music (although the people in communist Bulgaria were lead to believe they were Bulgarian originals). My favourite part here was the little statistics book. I thought this was some sort of textbook at first, but actually after translating it seemed to be more like a reference book, with different statistics on different topics that would be useful to refer to. Life before the internet I guess. 
 | | |
-|-|-|
+|---|---|
 |![record player](../../assets/red-flat-pics/IMG_3143.jpeg)|![bike](../../assets/red-flat-pics/IMG_3151.jpeg)|
 | | |
 |-|-|
