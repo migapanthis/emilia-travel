@@ -40,8 +40,10 @@ There are 3 floors (maybe even 4), each with about 6 (large) rooms of art, plus 
 |-|-|
 ![table](../../assets/art-pics/IMG_3355.jpeg)|![layered](../../assets/art-pics/IMG_3353.jpeg)
 
-After this, I was MASSIVELY hungry. It was like 2pm already! All good though, Happy is just down the road. Happy is a Bulgarian chain that is very popular in London it seems? It is based on the Hard Rock Cafe, and is one of the places that we can get delivered for lunch at work that the company will pay for. It is sooooo good, and they have basically everything. 
+After this, I was MASSIVELY hungry. It was like 2pm already! All good though, Happy is just down the road. Happy is a Bulgarian chain that is very popular in London it seems? It is based on the Hard Rock Cafe, and is one of the places that we can get delivered for lunch at work that the company will pay for. It is sooooo good, and they have basically everything. I was sitting next to some Americans, I saw a comment somewhere that said sitting next to Americans at a restaurant is like living next to a data centre, lol.
+
 After the waitress switched to English for me, she asked me how I was and I said "good, how are you?". She replied with "I'm at work, how can I be". Good answer 😆
+
 I got pork gyros and a hugo spritz, awwww yeah:
 
 ![lunch](../../assets/art-pics/IMG_3401.jpeg)
