@@ -33,7 +33,7 @@ On the other side of the living room was the TV, and bed. The TV seemed to be pl
 
 The next room was the children's room. I think the room was supposed to represent all stages of their son's childhood - there were toys and blocks, sports equipment, a record player, school uniforms, and homework stuff. This was a fun room to play around in. Some people even put on a record - these were Bulgarian covers of 80s pop music (although the people in communist Bulgaria were lead to believe they were Bulgarian originals). My favourite part here was the little statistics book. I thought this was some sort of textbook at first, but actually after translating it seemed to be more like a reference book, with different statistics on different topics that would be useful to refer to. Life before the internet I guess. 
 | | |
-|---|---|
+|-|-|
 |![record player](../../assets/red-flat-pics/IMG_3143.jpeg)|![bike](../../assets/red-flat-pics/IMG_3151.jpeg)|
 | | |
 |-|-|
@@ -42,7 +42,7 @@ The next room was the children's room. I think the room was supposed to represen
 The last room is the kitchen. It was fitted out with all Bulgarian made applicances, and had a small radio playing. It was pretty crowded when I got to this point, but luckily I was brave enough to explore the balcony. There was even a box of Bulgarian chocolates (from 2026 not 1980) that the audio guide invited us to try. 
 
 | | | |
-|-|-|-|
+|-----|-----|-----|
 |![balcony](../../assets/red-flat-pics/IMG_3157.jpeg)|![view](../../assets/red-flat-pics/IMG_3161.jpeg)|![chocolates](../../assets/red-flat-pics/IMG_3164.jpeg)|
 
 This was a great tourist attraction. One of my favourite things to do in an unfamiliar city is just to walk around and look at buildings (even if they are not that special). This felt like an extension of that. 
