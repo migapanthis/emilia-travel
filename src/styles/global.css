@@ -95,10 +95,13 @@ img {
 	border-radius: 8px;
 }
 .prose img,
-.entry img {
+.entry img,
+.prose video,
+.entry video {
 	display: block;
 	margin: 0 auto;
 	max-width: 80%;
+	height: auto;
 }
 code {
 	padding: 2px 5px;
