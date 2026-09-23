@@ -21,7 +21,9 @@ If you check your receipts in Germany, you'll notice that there'll be some extra
 Another supermarket thing! There are these robots in the supermarkets. I don't know what they are for, they carry stuff but who unloads it? Maybe they clean too? But mostly dancing. Sometimes they just stop in the aisle and play music and spin around with confetti on the screen. 
 
 ### Speaker guy
-![speaker](../../assets/leipzig-pics/IMG_4055.MOV)
+<video controls>
+  <source src="../../assets/leipzig-pics/IMG_4055.MOV" type="video/quicktime" />
+</video>
 Of course in NZ we have people who walk around with speakers. It's kind of cool to me. But in Leipzig, the people who walk around with speakers have much more serious speakers, and the music is much louder, but it's more suitable walking music. The noise pollution here is generally better. The buskers are playing classical music quietly and well, and there is no one singing Hallelujah in a loop with 4 similar songs. Seriously the buskers in Auckland need to have a longer setlist if they're gonna be there all day. 
 
 ### Tomato on the ground
