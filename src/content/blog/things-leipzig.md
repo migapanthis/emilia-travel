@@ -18,7 +18,7 @@ If you check your receipts in Germany, you'll notice that there'll be some extra
 
 ### Supermarket robot
 ![robot](../../assets/leipzig-pics/IMG_3936.jpeg)
-Another supermarket thing! There are these robots in the supermarkets. I don't know what they are for, they carry stuff but who unloads it?. Maybe they clean too? But mostly dancing. Sometimes they just stop in the aisle and play music and spin around with confetti on the screen. 
+Another supermarket thing! There are these robots in the supermarkets. I don't know what they are for, they carry stuff but who unloads it? Maybe they clean too? But mostly dancing. Sometimes they just stop in the aisle and play music and spin around with confetti on the screen. 
 
 ### Speaker guy
 ![speaker](../../assets/leipzig-pics/IMG_4055.MOV)
