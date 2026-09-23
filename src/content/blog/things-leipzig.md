@@ -9,15 +9,15 @@ I'm in Leipzig now! No blogs for a while sorry about that. I still have one or t
 Leipzig is quite a cool little city. It has a similar population to Christchurch but is smaller, so it feels busy. It's a university city with gothic style buildings and crispy cold days, so it feels quite a lot like Dunedin too. Lots of people with lanyards. Here are some things I've seen in Leipzig:
 
 ### Mett Brötchen
-![mett](../../assets/leipzig-pics/IMG_3895.jpg)
+![mett](../../assets/leipzig-pics/IMG_3895.jpeg)
 Every Tuesday at the office there is "Mett Tuesday". This is when someone brings raw pork mince, raw onion, and bread rolls from the market to the office so that everyone can have mett brötchen. Everyone in the office is very grateful for Mett Tuesday. It took me a week to build up to courage to try the raw pork but it was pretty good! Especially with pickles. 
 
 ### Pfand 
-![pfand](../../assets/leipzig-pics/IMG_3920.jpg)
+![pfand](../../assets/leipzig-pics/IMG_3920.jpeg)
 If you check your receipts in Germany, you'll notice that there'll be some extra charges of €0.25. This is charged for every plastic bottle, can, and sometimes glass bottles too. You can hold onto the empties and take them back to the supermarket, put them in the machine, and you'll get your €0.25 back as a voucher to use at the supermarket. If you can't take it back, then you can leave it next to a bin and a homeless person will cash it in on your behalf. Good system! It's fun to put stuff in a machine and watch the balance go up. 
 
 ### Supermarket robot
-![robot](../../assets/leipzig-pics/IMG_3936.jpg)
+![robot](../../assets/leipzig-pics/IMG_3939.jpeg)
 Another supermarket thing! There are these robots in the supermarkets. I don't know what they are for, they carry stuff but who unloads it?. Maybe they clean too? But mostly dancing. Sometimes they just stop in the aisle and play music and spin around with confetti on the screen. 
 
 ### Speaker guy
