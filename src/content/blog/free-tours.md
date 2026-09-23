@@ -30,7 +30,7 @@ There were actual guards though, which was a bit freaky. Inside, there was this 
 
 The rest of the tour was stopping at different churches and things, which were cool, but I had seen a lot of them already. I tipped the guide, made a quick stop at Lidl for a cool drink, then headed to the meeting point for the Balkan Bites tour. Overall this tour was ok. It was a quite long and a little boring, but I think it would be worth doing as a first activity if you're not in Sofia for long. Maybe it would be better with a smaller group. 
 
-The Balkan Bites tour was great! There were only about 10 of us which was a perfect sized group. One of the people in the group was actually from Sofia as well so it was kind of like we had two tour guides. We started at a Sri Lankan restaurant to try some bean patties/sausages with a Bulgarian yogurt sauce. Goooood. 
+The Balkan Bites tour was great! There were only about 10 of us which was a perfectly sized group. One of the people in the group was actually from Sofia as well so it was kind of like we had two tour guides. We started at a Sri Lankan restaurant to try some bean patties/sausages with a Bulgarian yogurt sauce. Goooood. 
 
 After that was a wine shop to try some Bulgarian wine. Also goooood. Then we went to a toast place to try lyutenitsa. Lyutenitsa is a tomatoey savoury spread that is one of my biggest difficulties in Bulgaria. Sometimes, it is really good and I think I should get a jar from the supermarket. Then the other 50% of the time it has capsicum in it. There is no way to tell. I was really brave and tried it and this one was good. Plus it had some green garlic salt stuff that was awesome. 
 
