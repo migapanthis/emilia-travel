@@ -31,7 +31,7 @@ Of course in NZ we have people who walk around with speakers. It's kind of cool 
 Ok this one is not so interesting. But the tomatoes are really great in Europe, especially in Bulgaria. This one looks like a really great tomato, probably the kind you'd have to go to Farro for, and it's just on the ground. 
 
 ### Unexpected company
-![drawing](../../assets/leipzig-pics/291E7495-FCF9-4CC3-B0FC-C6CADB9A99E2.heic)
+![drawing](../../assets/leipzig-pics/291E7495-FCF9-4CC3-B0FC-C6CADB9A99E2.jpg)
 One night, I decided to go to a cool bar kind of inside a mall/laneway thing to have a beer and read my book. It was quite busy. So busy, that a couple sat down at my table, started smoking (inside!!), and ate steak! I drew this picture to show that it was not a large table or anything. Once they finished their cigarettes it was ok. A good chance to practice my German eavesdropping. 
 
 ### Whittling festival?
