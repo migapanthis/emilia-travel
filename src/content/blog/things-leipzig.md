@@ -49,3 +49,9 @@ THIS IS SOMETHING NEW ZEALAND NEEDS! I don't want to have toast for breakfast ev
 ### Really good fountain
 ![fountain](../../assets/leipzig-pics/IMG_4203.jpeg)
 The supermarket closest to me is in what seems to be a brand new mall. There are no shops except the supermarket. It seems like they could be still building the shops, but also they seem to be advertising office spaces a lot. At least I think so, there are a lot of signs that say büro. But at the bottom they have this awesome fountain. It's hard to capture how it extreme it is with a picture, but every time I leave the supermarket I end up watching it for at least 10 minutes. There's even a bit where the middle shoots water to the ceiling of the mall, three floors up!
+
+### Bonus speaker guy
+<video controls>
+  <source src="../../assets/leipzig-pics/IMG_4236.MOV" type="video/quicktime" />
+</video>
+Ok I've added this a bit later because something else noteworthy happened in Leipzig. Another 'speaker guy' kind of, except this time it's a bike convoy of people playing the Spice Girls. 
